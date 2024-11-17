@@ -34,6 +34,7 @@ export default function RootLayout() {
         <Stack.Screen name="+not-found" />
         <Stack.Screen name="index"  options={{ headerShown: false }}/>
         <Stack.Screen name="jadwalsholat"  options={{ headerShown: false }}/>
+        <Stack.Screen name="bola"  options={{ headerShown: false }}/>
         <Stack.Screen name="gpt"  options={{ headerShown: false }}/>
       </Stack>
       <StatusBar style="auto" />
